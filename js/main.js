@@ -42,7 +42,7 @@ jQuery(document).ready(function () {
 });
 
 // cowntdown function. Set the date below (December 1, 2016 00:00:00):
-var austDay = new Date("August 15, 2012 00:00:00");
+var austDay = new Date("August 15, 2022 00:00:00");
 $("#countdown").countdown({
   until: austDay,
   layout:
